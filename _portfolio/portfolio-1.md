@@ -1,7 +1,11 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "CrossRoads Baseball"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/shutterstock_1396037-1-684x513.jpg'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+# CrossRoads Baseball
+The current plan is to rank players and predict games.
+
+### Update - 2/6/2020
+Created repository, but we don't have anything we're ready to share yet.
