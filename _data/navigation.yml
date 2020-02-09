@@ -3,12 +3,12 @@ main:
     
   - title: "Projects"
     url: /portfolio/
-        
-  - title: "News"
-    url: /year-archive/
-  
-  - title: "J.H. Scholarship"
+    
+    - title: "News"
     url: /publications/
+        
+  - title: "JH Scholarship"
+    url: /year-archive/
 
   #- title: "Talks"
   #  url: /talks/    
